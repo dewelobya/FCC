@@ -16,7 +16,7 @@ All in codepen.io, open below links to view the projects.
 
 ## Data Visualization with D3 
 
-Project [directory] (https://github.com/pe1l1nl1/Data-Analytics-Projects/tree-save/main/DataVisualization/DataVisualizationWithD3.md)
+Data Visualization with D3 exercises [file](https://github.com/pe1l1nl1/Data-Analytics-Projects/tree-save/main/DataVisualization/DataVisualizationWithD3.md)
 
 JSON APIs and AJAX [file]()
 

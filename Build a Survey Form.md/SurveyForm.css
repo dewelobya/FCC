@@ -1,0 +1,104 @@
+
+@import url('https://fonts.googleapis.com/css?family=Spirax');
+
+hmtl,
+body{
+  background-color: #FEFEFE;
+  text-align: center: font-family: 'Spirax', cursive; 
+  min-width: 350px;
+  
+}
+
+header {
+  font-size: 5em;
+  font-weight: cursive;
+  margin: 45px;
+}
+
+#form-outer{
+  background-color: rgb(216, 193, 222);
+  margin: 0 auto;
+  border-radius: 5px;
+  width: 65%;
+  max-width: 900px;
+  padding: 15px;
+  paddint-top: 25px;
+}
+
+
+.labels{
+  display: inline-block;
+  text-align:
+  left;
+  width:40%;
+  
+  vertical-align: top;
+  margin-top: 15px;
+  
+  
+}
+
+.rightTap{
+  
+  display: inline-block;
+  text-align: left;
+  width: 50%;
+  vertical-align: middle;
+}
+
+.input-field{
+  
+  height: 25px;
+  width: 300px;
+  padding: 5px;
+  margin: 10px;
+  border: 1px;
+  solid #FFF000;
+  border-radiu: 3px;
+}
+
+#userAge {
+  width= 45px;
+  
+}
+
+.userPreferences,
+input[type="checkbox"]{
+  float: center;
+  margin-right: 10px;
+}
+#submit{
+  
+  background-color: #59ace0;
+  border-radius: 5px;
+  color: white;
+  font-size: 1em;
+  height: 50px;
+  width: 100px;
+  margin: 10px;
+  border: 0px solid;
+  
+}
+
+.dropdown{
+  height: 35px;
+  width: 140px;
+  padding: 5px;
+  margin: 10px;
+  margin-top: 15px;
+  border: 1px solid #c0c0c0;
+  border-radiu: 2px;
+  
+  
+}
+
+.radio, .checkbox{
+  
+  position: relative;
+  left: -14px;
+  margin-left: 10px;
+  display: block;
+  padding-bottom: 15px;
+  
+  
+}
